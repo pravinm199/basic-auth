@@ -13,6 +13,8 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "co.basic": {}
+        }
     }
 }
