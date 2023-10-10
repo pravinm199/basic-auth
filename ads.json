@@ -1,1 +1,18 @@
-{}
+{
+    "basic": {
+        "projectName": "basic",
+        "description": "basic auth flow",
+        "type": "community",
+        "author": "pravinm199",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/pravinm199/basic-auth",
+        "githubUri": "https://github.com/pravinm199/basic-auth",
+        "license": "MIT",
+        "lastUpdated": "1696958565829",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
